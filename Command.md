@@ -1,4 +1,4 @@
-#Progress Bar
+# Progress Bar
 
 ```$n = 4000;
 $bar = $this->output->createProgressBar($n);;
