@@ -50,3 +50,16 @@ class TestController extends Controller
 }
 
 ```
+
+
+## Laravel local package
+Add this to composer.json
+
+```
+repositories:[
+  {
+    type: vcs,
+    url: /path/to/local/repo
+  }
+]
+```
