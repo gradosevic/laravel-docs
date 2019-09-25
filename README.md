@@ -69,7 +69,7 @@ repositories:[
 ```
 autoload:{
   files:[
-    "app\helpers.php"
+    "app/helpers.php"
   ]
 }
 ```
