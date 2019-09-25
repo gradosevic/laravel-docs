@@ -63,3 +63,13 @@ repositories:[
   }
 ]
 ```
+
+## Autoload helpers from package.json
+
+```
+autoload:{
+  files:[
+    "app\helpers.php"
+  ]
+}
+```
